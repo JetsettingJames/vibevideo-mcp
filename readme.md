@@ -1,4 +1,4 @@
-# VibeVideo-MCP
+# VibeVideo‑MCP&nbsp;&nbsp;[![Visualise&nbsp;Repo](https://img.shields.io/badge/Visualise%20Repo-blue?style=flat-square)](https://repomapr.com/hyepartners-gmail/vibevideo-mcp)
 
 ## Overview
 
